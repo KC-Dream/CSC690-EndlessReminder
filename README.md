@@ -2,4 +2,4 @@
 This is the Endless Reminder App  
 -Kevin Zhou  
 -Zi Collin Zhen  
-Please read the PDF file! Thank you.
+The Documentation for this project is inside the pdf file. Includes instructions to run the application.
